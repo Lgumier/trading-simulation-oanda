@@ -43,7 +43,7 @@ The system simulates realistic price-making and order-matching logic in line wit
 Want to test it online?  
 Click below to launch the notebook in **Google Colab** (insert your own API keys to run it):
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/trading-simulation-oanda/blob/main/Trading_simulation_MM_Arbitrage_RMIT.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lgumier/trading-simulation-oanda/blob/main/Trading_simulation_MM_Arbitrage_RMIT.ipynb)
 
 > 🛠 Make sure to replace the API placeholders before executing!
 
